@@ -1,3 +1,9 @@
+> **Legacy repository.** Current VibeOS development and reviewed releases live in
+> [chieflatif/vibeos-plugin](https://github.com/chieflatif/vibeos-plugin).
+> For new projects and preservation-aware upgrades, follow the
+> [current installation guide](https://github.com/chieflatif/vibeos-plugin/blob/main/docs/INSTALLATION.md).
+> This repository is retained for history; its files are not a synchronized release.
+
 # VibeOS — Autonomous Development Engine
 
 An autonomous, self-governing development engine for Claude Code. Describe what you want to build — VibeOS guides you through product discovery, creates a development plan, then autonomously builds your project with layered quality audits at every step.
